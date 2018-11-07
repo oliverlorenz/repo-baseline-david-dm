@@ -12,7 +12,7 @@
       "options": {
         "files": [
           {
-            "path": "README.md",
+            "path": "README.md", 
             "pattern": "https:\\/\\/david-dm\\.org\\/[\\w-]+\\/[\\w-]+\\/status\\.svg"
           }
         ]
